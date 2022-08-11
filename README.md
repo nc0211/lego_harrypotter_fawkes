@@ -33,7 +33,7 @@ $git clone https://github.com/nc0211/lego_harrypotter_fawkes.git
 3. building your LEGO Fawkes  
 4. once the 3D printed base has done, assemble it with your circuit and Fawkes  
 
-Your are done. Try to press your remote controller and enjoy!  
+You are done. Try to press your remote controller and enjoy!  
 
 
 
