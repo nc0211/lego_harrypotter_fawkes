@@ -30,7 +30,7 @@ $git clone https://github.com/nc0211/lego_harrypotter_fawkes.git
   iv. upload source code to your arduino board 
   # Circuit Diagram: <h3>
 ![image](fawkes_circuit_diagram.png) 
-3. building your LEGO Fawkes  
+3. build your LEGO Fawkes  
 4. once the 3D printed base has done, assemble it with your circuit and Fawkes  
 
 You are done. Try to press your remote controller and enjoy!  
