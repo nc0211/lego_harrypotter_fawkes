@@ -13,7 +13,7 @@ $git clone https://github.com/nc0211/lego_harrypotter_fawkes.git
 
 * Prepare following electronic related materials:
   * arduino board * 1
-  * ribbon cables for severals
+  * ribbon cables for several
   * breadboard  * 1
   * GWS ST35 Servo  * 1
   * 9V Switching Adapter  * 1
