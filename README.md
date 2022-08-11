@@ -25,7 +25,7 @@ $git clone https://github.com/nc0211/lego_harrypotter_fawkes.git
 1. print the base (STL files are in "lego_harrypotter_fawkes/stl") 
 2. prepare HW and SW:  
   i. prepare circuit      
-  ii. launch arduino IDE and import source code in "lego_harrypotter_fawkes/src/fawkes_servo"  
+  ii. launch arduino IDE and import source code in "lego_harrypotter_fawkes/code/fawkes_servo"  
   iii. connect the arduino board to your computer  
   iv. upload source code to your arduino board 
   # Circuit Diagram: <h3>
