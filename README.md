@@ -6,7 +6,7 @@ Youtube video link:
 # Prerequisite: <h2>
 * Have a LEGO Fawkes. https://www.lego.com/en-us/product/fawkes-dumbledore-s-phoenix-76394
 * Install arduino IDE. https://www.arduino.cc/en/software
-* Download source code and STL files.
+* Download source code and stl files.
 ```
 $git clone https://github.com/nc0211/lego_harrypotter_fawkes.git
 ```
@@ -22,9 +22,9 @@ $git clone https://github.com/nc0211/lego_harrypotter_fawkes.git
  
  
 # Steps: <h2> 
-1. print the base (STL file is in lego_harrypotter_fawkes/STL) 
+1. print the base (STL files are in "lego_harrypotter_fawkes/stl") 
 2. prepare HW and SW:  
-  i. prepare circuit.      
+  i. prepare circuit      
   ii. launch arduino IDE and import source code in "lego_harrypotter_fawkes/src/fawkes_servo"  
   iii. connect the arduino board to your computer  
   iv. upload source code to your arduino board 
@@ -32,7 +32,8 @@ $git clone https://github.com/nc0211/lego_harrypotter_fawkes.git
 ![image](fawkes_circuit_diagram.png) 
 3. building your LEGO Fawkes  
 4. once the 3D printed base has done, assemble it with your circuit and Fawkes  
-5. Your are done. Try to press your remote controller and enjoy!  
+
+Your are done. Try to press your remote controller and enjoy!  
 
 
 
